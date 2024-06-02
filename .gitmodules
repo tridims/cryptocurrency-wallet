@@ -1,0 +1,9 @@
+[submodule "crypto-wallet"]
+	path = crypto-wallet
+	url = ./crypto-wallet/
+[submodule "secure-mnemonic-vault"]
+	path = secure-mnemonic-vault
+	url = ./secure-mnemonic-vault/
+[submodule "speck-cipher"]
+	path = speck-cipher
+	url = ./speck-cipher/

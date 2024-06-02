@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crypto-wallet",
+    "secure-mnemonic-vault",
+    "speck-cipher",
+]
