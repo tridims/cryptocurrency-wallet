@@ -1,7 +1,7 @@
 [submodule "crypto-wallet"]
 	path = crypto-wallet
 	url = https://github.com/tridims/blockchain-wallet.git
-[submodule "secure-mnemonic-vault"]
+[submodule "mnemonic-vault"]
 	path = secure-mnemonic-vault
 	url = https://github.com/tridims/Mnemonic-Vault.git
 [submodule "speck-cipher"]
