@@ -1,9 +1,9 @@
 [submodule "crypto-wallet"]
 	path = crypto-wallet
-	url = https://github.com/tridims/blockchain-wallet.git
+	url = git@github.com:tridims/blockchain-wallet.git
 [submodule "mnemonic-vault"]
 	path = mnemonic-vault
-	url = https://github.com/tridims/Mnemonic-Vault.git
+	url = git@github.com:tridims/Mnemonic-Vault.git
 [submodule "speck-cipher"]
 	path = speck-cipher
-	url = https://github.com/tridims/speck-cipher.git
+	url = git@github.com:tridims/speck-cipher.git

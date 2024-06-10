@@ -5,6 +5,8 @@ The following are the requirements to run this library:
 - Rust
 - Cargo
 
+## Installation
+
 To install the required tools, I recommend using [rustup](https://rustup.rs/).
 There, you will find this instruction:
 
